@@ -4,6 +4,9 @@ public class uno {
 		
 	}
 	
-	
+	String uno;
+	public String getUno(){
+		return uno;
+	}
 
 }
