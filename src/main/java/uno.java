@@ -5,7 +5,11 @@ public class uno {
 	}
 	
 	String uno;
+	String dos;
 	public String getUno(){
+		return uno;
+	}
+	public String getDos(){
 		return uno;
 	}
 
